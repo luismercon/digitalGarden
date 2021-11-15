@@ -1,3 +1,7 @@
-# BrainForest
+# Digital Garden
+*Luis Merçon*
 
-Essa é a minha nova página principal. Estou criando no main, para depois fazer um merge com a branch que é de publicação. Apenas depois disso é que deve aparecer online.
+--- 
+
+
+Essa é a página principal de um Digital Garden. Trata-se de um conceito de publicação de textos não comprometidos a serem permanentes. Tudo aqui está em constante evolução. Textos podem ser ampliados, reduzido ou até eliminados com o passar do tempo.
