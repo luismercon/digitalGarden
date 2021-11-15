@@ -1,1 +1,1 @@
-Não estou entendendo porque não aparece o commit.
+Pronto. Agora é um arquivo novinho.
